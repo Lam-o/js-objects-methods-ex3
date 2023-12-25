@@ -1,7 +1,7 @@
 const person = {
   name: "Alice",
   lastName: "Parker",
-  student: True
+  student: true
 };
 
 console.log(person.student);
